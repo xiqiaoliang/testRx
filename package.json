@@ -1,0 +1,9 @@
+{
+  "name": "mi3jy8--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "^7.5.6",
+    "typescript": "4.7.4"
+  }
+}
